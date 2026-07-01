@@ -74,7 +74,7 @@ python expense_tracker.py
 
 ## 👨‍💻 Author
 
-**Radhakrishna**
+**Riya Verma**
 
 ---
 
